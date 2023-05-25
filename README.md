@@ -21,6 +21,10 @@
 2. 서점마다 책 출시 시 도서관에 책 배치 및 유저에게 알림전송
 3. 유저 알림 허용 및 차단
 
+<img width="328" alt="스크린샷 2023-05-26 오전 12 57 17" src="https://github.com/sdoohee/Library_system_project/assets/90372242/c70d0228-7833-4715-9c17-756d6f88a94d">
+
+
+
 ## Readerboard
 <img width="1440" alt="스크린샷 2023-05-25 오후 11 47 53" src="https://github.com/sdoohee/project/assets/90372242/989e9995-2258-4cb6-a513-b41b0fdbfad4">
 
