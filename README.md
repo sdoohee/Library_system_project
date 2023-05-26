@@ -86,7 +86,7 @@
     
     
 ## 데모
-
+![소프트웨어 설게 녹화](https://github.com/sdoohee/Library_system_project/assets/90372242/33c76ee8-835f-426e-8f61-d3df1f9845f1)
 
 
 
